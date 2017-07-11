@@ -1,0 +1,17 @@
+.project
+.classpath
+.settings
+.metadata
+target
+**/target
+**/.classpath
+**/.settings
+**/.project
+**/.metadata
+**/WebContent/WEB-INF/lib/*
+**/WebContent/WEB-INF/static/lib/*
+**/WebContent/static/lib/*
+# Intellij
+.idea/
+*.iml
+*.iws
